@@ -28,7 +28,7 @@ This project focused on classifying handwritten digits using various machine lea
 [!(https://github.com/nguyennhuhha/CS114.O21.KHCL)]
 
 ### 3. Final Project: Motorcycle Classification
-The final project involved classifying motorcycle images into categories such as Honda, Suzuki, VinFast, Yamaha, and Others. The dataset was split into training and testing sets, and various data augmentation techniques were applied to improve model performance. I contributed 494 data, most of them (~98%) are crawled and cleaned, after this i performed feature extraction using vgg16 without top layer (classification) but the notebook crashed halfway through.
+The final project involved classifying motorcycle images into categories such as Honda, Suzuki, VinFast, Yamaha, and Others. The dataset was split into training and testing sets, and various data augmentation techniques were applied to improve model performance. I contributed 494 data, most of them (~98%) are crawled and cleaned, after this i performed feature extraction using vgg16 without top layer (classification) and achieved 84% based on the accuracy metric.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UBlfKcUQs_UnPlyzOKUQcgiDc9W2A31g?usp=sharing)
 (Can only opened by Lecturer)
