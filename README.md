@@ -18,7 +18,7 @@ Welcome to my repository for the Machine Learning class projects. Here you'll fi
 ## Projects
 
 ### 1. IT001 Score Prediction
-In this project, we aimed to predict GPA, process and hands on scores for IT001 class participant based on submission data from Wecode. The dataset includes anonymized student data and submission details. The goal was to use this data to predict the scores effectively, and the competition was evaluated based on the R² score.
+In this project, I aimed to predict GPA, process and hands on scores for IT001 class participant based on submission data from Wecode. The dataset includes anonymized student data and submission details. The goal was to use this data to predict the scores effectively, and the competition was evaluated based on the R² score.
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1livcPAULMGyV8xASle1do1LByxPbtqw0?usp=sharing)
 
